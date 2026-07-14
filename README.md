@@ -1,16 +1,35 @@
-## Hi there 👋
+# Howdy! ✌️ aaaosuna here
+I'm Angel, a IT Engineering student with a strong focus on software development. I enjoy cleaning and structuring data and
+my main strengths are solving complex problems and building software with Python.
 
-<!--
-**aosuna08/aosuna08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Currently pursuing a degree in Information Technology at Universidad Politécnica de Sinaloa.
+- ⌨️ In my free time, I enjoy building and customizing mechanical keyboards (I own a GMK67 kit) and sourcing parts from local vendors in Mexico.
+- 💡 I fancy to refurbish vintage tech like handheld consoles or Apple iPods.
+- ✒️ I also enjoy working with vector graphics and digital design using Inkscape.
 
-Here are some ideas to get you started:
+## 🛠️ Tech skills
+### 💻 Languages & Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,mysql" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Main framework
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django" />
+  </a>
+</p>
+
+### 🔧 Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
+  </a>
+</p>
+
+## 📫 Let's Connect
+- [website]
+
